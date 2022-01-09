@@ -19,7 +19,7 @@
         "slug": "asiemsen",
         "lastName": "Siemsen",
         "firstName": "Abram",
-        "basePath": "https://abesiemsen.github.io/layout2020spring/",
+        "basePath": "https://abesiemsen.github.io/layout2022spring/",
         "email": "asiemsen@wustl.edu",
         "phone": "314-323-0911"
       }
@@ -42,123 +42,123 @@
     "sessions": [
       {
         "number": 1,
-        "date": "2020-01-14 06:00"
+        "date": "2022-01-14 06:00"
       },
       {
         "number": 2,
-        "date": "2020-01-16 06:00"
+        "date": "2022-01-16 06:00"
       },
       {
         "number": 3,
-        "date": "2020-01-21 06:00"
+        "date": "2022-01-21 06:00"
       },
       {
         "number": 4,
-        "date": "2020-01-23 06:00"
+        "date": "2022-01-23 06:00"
       },
       {
         "number": 5,
-        "date": "2020-01-28 06:00"
+        "date": "2022-01-28 06:00"
       },
       {
         "number": 6,
-        "date": "2020-01-30 06:00"
+        "date": "2022-01-30 06:00"
       },
       {
         "number": 7,
-        "date": "2020-02-04 06:00"
+        "date": "2022-02-04 06:00"
       },
       {
         "number": 8,
-        "date": "2020-02-06 06:00"
+        "date": "2022-02-06 06:00"
       },
       {
         "number": 9,
-        "date": "2020-02-11 06:00"
+        "date": "2022-02-11 06:00"
       },
       {
         "number": 10,
-        "date": "2020-02-13 06:00"
+        "date": "2022-02-13 06:00"
       },
       {
         "number": 11,
-        "date": "2020-02-18 06:00"
+        "date": "2022-02-18 06:00"
       },
       {
         "number": 12,
-        "date": "2020-02-20 06:00"
+        "date": "2022-02-20 06:00"
       },
       {
         "number": 13,
-        "date": "2020-02-25 06:00"
+        "date": "2022-02-25 06:00"
       },
       {
         "number": 14,
-        "date": "2020-02-27 06:00"
+        "date": "2022-02-27 06:00"
       },
       {
         "number": 15,
-        "date": "2020-03-03 06:00"
+        "date": "2022-03-03 06:00"
       },
       {
         "number": 16,
-        "date": "2020-03-05 06:00"
+        "date": "2022-03-05 06:00"
       },
       {
-        "date": "2020-03-10 06:00",
+        "date": "2022-03-10 06:00",
         "holiday": "Spring Break"
       },
       {
-        "date": "2020-03-12 06:00",
+        "date": "2022-03-12 06:00",
         "holiday": "Spring Break"
       },
       {
         "number": 17,
-        "date": "2020-03-17 06:00"
+        "date": "2022-03-17 06:00"
       },
       {
         "number": 18,
-        "date": "2020-03-19 06:00"
+        "date": "2022-03-19 06:00"
       },
       {
         "number": 19,
-        "date": "2020-03-24 06:00"
+        "date": "2022-03-24 06:00"
       },
       {
         "number": 20,
-        "date": "2020-03-26 06:00"
+        "date": "2022-03-26 06:00"
       },
       {
         "number": 21,
-        "date": "2020-03-31 06:00"
+        "date": "2022-03-31 06:00"
       },
       {
         "number": 22,
-        "date": "2020-04-02 06:00"
+        "date": "2022-04-02 06:00"
       },
       {
         "number": 23,
-        "date": "2020-04-07 06:00"
+        "date": "2022-04-07 06:00"
       },
       {
         "number": 24,
-        "date": "2020-04-09 06:00"
+        "date": "2022-04-09 06:00"
       },
       {
         "number": 25,
-        "date": "2020-04-14 06:00"
+        "date": "2022-04-14 06:00"
       },
       {
         "number": 26,
-        "date": "2020-04-16 06:00"
+        "date": "2022-04-16 06:00"
       },
       {
         "number": 27,
-        "date": "2020-04-21 06:00"
+        "date": "2022-04-21 06:00"
       },
       {
         "number": 28,
-        "date": "2020-04-23 06:00"
+        "date": "2022-04-23 06:00"
       }
     ],
     "projects": [
@@ -166,30 +166,30 @@
         "slug": "getting-started",
         "name": "Getting Started",
         "hidden": false,
-        "start": "2020-01-14",
-        "end": "2020-01-14",
+        "start": "2022-01-14",
+        "end": "2022-01-14",
         "description": "<p>Get squared away with tools and resources.</p>",
         "deliverables": [
           {
             "slug": "local-directory",
             "name": "Local Directory",
             "hidden": false,
-            "assigned": "2020-01-14",
-            "due": "2020-01-14",
-            "instructions": "<p>Create a local directory called <code>layout2020spring</code> in your documents directory. Inside this directory, create two sub-directories: <code>resources</code> and <code>publish</code>.</p><p><p>Each of these folders will eventually be further subdivided by project, and projects by deliverables. The specific project and deliverable folder name to use will be provided as part of each assignment.</p><em>Resources</em> is where you'll keep non-published files, such as photoshop or illustratir docs, notes, unprocessed images, etc. <em>Publish</em> will ONLY contain those files that will get uploaded to github as deliverables. Think of your github repository as a perfect reflection of your local <em>Publish</em> directory.</p>"
+            "assigned": "2022-01-14",
+            "due": "2022-01-14",
+            "instructions": "<p>Create a local directory called <code>layout2022spring</code> in your documents directory. Inside this directory, create two sub-directories: <code>resources</code> and <code>publish</code>.</p><p><p>Each of these folders will eventually be further subdivided by project, and projects by deliverables. The specific project and deliverable folder name to use will be provided as part of each assignment.</p><em>Resources</em> is where you'll keep non-published files, such as photoshop or illustratir docs, notes, unprocessed images, etc. <em>Publish</em> will ONLY contain those files that will get uploaded to github as deliverables. Think of your github repository as a perfect reflection of your local <em>Publish</em> directory.</p>"
           },
           {
             "slug": "slack",
             "name": "Slack",
             "hidden": false,
-            "assigned": "2020-01-14",
-            "due": "2020-01-14",
+            "assigned": "2022-01-14",
+            "due": "2022-01-14",
             "instructions": "Join the class Slack workspace by clicking invitation link below.",
             "references": [
               {
                 "name": "Invitation",
                 "description": "Click to join.",
-                "link": "https://join.slack.com/t/layout2020spring/shared_invite/enQtOTAyNzgxNzY0Mjc2LTJjNmNkMGRkZDMwOTliNGJkN2ZkY2RjNGM1MDZjNmEwYmUyNGMzYmEzNWQ1Y2M2YTY4NzQ4OWU5ODk1ZjE3ZGU"
+                "link": "https://join.slack.com/t/layout2022spring/shared_invite/enQtOTAyNzgxNzY0Mjc2LTJjNmNkMGRkZDMwOTliNGJkN2ZkY2RjNGM1MDZjNmEwYmUyNGMzYmEzNWQ1Y2M2YTY4NzQ4OWU5ODk1ZjE3ZGU"
               }
             ]
           },
@@ -197,8 +197,8 @@
             "slug": "github-account",
             "name": "Github Account",
             "hidden": false,
-            "assigned": "2020-01-14",
-            "due": "2020-01-14",
+            "assigned": "2022-01-14",
+            "due": "2022-01-14",
             "instructions": "<ul><li>Create a GitHub account (or use your existing one).</li><li>Slack me your GitHub url. It will look like: <code>https://github.com/abesiemsen</code>.</li></ul>",
             "references": [
               {
@@ -212,13 +212,13 @@
             "slug": "github-repo",
             "name": "Github Repository",
             "hidden": false,
-            "assigned": "2020-01-14",
-            "due": "2020-01-14",
-            "instructions": "<ul><li>Create a GitHub repository for this class. Name it: <code>layout2020spring</code>. Make it public, and check the box for <em>Initialize this repository with a README</em>.</li><li>Go to <em>settings</em>, scroll down to <em>GitHub Pages</em>, and select <em>master branch</em> from the <em>source</em> dropdown. This will make your uploaded work publicly accessible, so the class-website can find it.</li></ul>",
+            "assigned": "2022-01-14",
+            "due": "2022-01-14",
+            "instructions": "<ul><li>Create a GitHub repository for this class. Name it: <code>layout2022spring</code>. Make it public, and check the box for <em>Initialize this repository with a README</em>.</li><li>Go to <em>settings</em>, scroll down to <em>GitHub Pages</em>, and select <em>master branch</em> from the <em>source</em> dropdown. This will make your uploaded work publicly accessible, so the class-website can find it.</li></ul>",
             "references": [
               {
                 "name": "github.com/new",
-                "description": "Create a 'layout2020spring' repository.",
+                "description": "Create a 'layout2022spring' repository.",
                 "link": "https://github.com/new"
               }
             ]
@@ -230,16 +230,16 @@
         "slug": "news-story-template",
         "name": "News Story Template",
         "hidden": false,
-        "start": "2020-01-14",
-        "end": "2020-02-06",
+        "start": "2022-01-14",
+        "end": "2022-02-06",
         "description": "<p>You will create a template to display news stories. The stories themselves will be dynamic content &mdash; you will not have direct control over their content. However, you will design, style, and build the template used to display them.</p><p>This template will be responsive (work visually at any device or browser width).</p><p>The template must accomodate:</p><ul><li>Title</li><li>Subtitle</li><li>Teaser text</li><li>Publish date</li><li>Tags</li><li>Primary image w/caption</li><li>Source name and url</li><li>Body copy</li><li>Embedded content: title tags, lists, images and figures with captions, pull-quotes</li><li>Related story links w/ title, subtitle, teaser, image</li></ul><h3>Learning Objectives</h3><ul><li>Manage single-column responsive content</li><li>Learn about and build templates for dynamic data</li><li>Gain experience with a templating syntax</li><li>Define style systems, not one-off instructions</li><li>Refine aesthetic decision-making for screens</li><li>Design in the browser</li></ul>",
         "deliverables": [
           {
             "slug": "starter-file",
             "name": "Starter File",
             "hidden": false,
-            "assigned": "2020-01-14",
-            "due": "2020-01-14",
+            "assigned": "2022-01-14",
+            "due": "2022-01-14",
             "file": "index.html",
             "description": "<p>To get going, you'll need this starter file.</p>",
             "instructions": "<p>Right-click on <code>starter.html</code>, and choose <code>Save link as...</code>. Save it as <code>index.html</code>, in your <code>publish</code> folder, and the path shown below.</p><p>Upload to github once it's working locally.</p>",
@@ -255,8 +255,8 @@
             "slug": "primary-text-layout",
             "name": "Primary Text Layout",
             "hidden": false,
-            "assigned": "2020-01-14",
-            "due": "2020-01-16",
+            "assigned": "2022-01-14",
+            "due": "2022-01-16",
             "file": "index.html",
             "references": [
               {
@@ -272,8 +272,8 @@
             "slug": "flex-experiment",
             "name": "Flex Experiment",
             "hidden": false,
-            "assigned": "2020-01-14",
-            "due": "2020-01-21",
+            "assigned": "2022-01-14",
+            "due": "2022-01-21",
             "file": "index.html",
             "references": [
               {
@@ -289,8 +289,8 @@
             "slug": "component-layout",
             "name": "Component Layout",
             "hidden": false,
-            "assigned": "2020-01-21",
-            "due": "2020-01-23",
+            "assigned": "2022-01-21",
+            "due": "2022-01-23",
             "file": "index.html",
             "references": [],
             "description": "<p>Following the 'component/safe-area' pattern is a useful way to approach common layout challenges in a vertically-stacked page, and provides a good framework for style rules that operate as a system, instead of simply matching styles with page elements 1:1. What are the logical components of the page? Which components should follow your 'default' rules, and which should have exceptions?</p><p>In addition to the specific requirements noted below, make design choices about that rest of the page content that continue to explore options (font, color, size, etc), and that accomodate and complement the large header image.</p>",
@@ -300,8 +300,8 @@
             "slug": "design-iterations",
             "name": "Design Iterations",
             "hidden": false,
-            "assigned": "2020-01-23",
-            "due": "2020-01-28",
+            "assigned": "2022-01-23",
+            "due": "2022-01-28",
             "file": "index.html",
             "references": [],
             "description": "<p>Based on the feedback/discussion you had with me in class, create at least three different versions of your news-template, aimed at different communication objectives. One might aim to be the most main-stream, conventional, middle of the road presentation it can be. One might be the one that aims to be bold, in your face, attention-grabbing. One might be inviting, friendly, accessible. One might be aimed at really treating the image as the hero content. One might be aimed at really activating margin-space in order to 'break out of the single column feel at larger sizes.</p><p>Whatever targets you pick, use them to guide your design decisions. &ldquo;Is this typeface really agressive enough? How big can it go and still work?&rdquo;</p><p>Consider, these iterations don't necessarily require big structural changes in your html. You may find that you just need to change css. In fact, <em>only</em> having to change css would be a very good indication that you've structured your html in a very semantic way, in which it describes the content, not the design, and is therefore useful for <em>any</em> design.</p>",
@@ -311,8 +311,8 @@
             "slug": "related-story-iterations",
             "name": "Related Story Iterations",
             "hidden": false,
-            "assigned": "2020-01-28",
-            "due": "2020-01-30",
+            "assigned": "2022-01-28",
+            "due": "2022-01-30",
             "file": "index.html",
             "references": [],
             "description": "<p>In class, we walked through how to use flex layout to manage grid items responsively in the macro layout, and also experimented with using flex to handle micro-layout issues. We also used a flew sneaky tricks to handle common layout headaches. We negative margin on the flex container to 'make room' for interior gutter margins. We used the 'padding-bottom' trick (along with absolute positioning) to create a fixed-aspect-ratio container for the purpose of conforming all images to a consistent size/shape. We set <code>img</code> tags to be <code>display: block;</code> in order to get rid of the phantom space beneath.</p><p>Now, it's time to put some of these techniques to work in your own layouts! Create three versions of the 'related-stories' block, where all of the various 'elbows' are safely tucked-in, and the page feels like a fully-controlled flexible system.</p>",
@@ -322,8 +322,8 @@
             "slug": "static-embellishments",
             "name": "Static Embellishments",
             "hidden": false,
-            "assigned": "2020-01-30",
-            "due": "2020-02-04",
+            "assigned": "2022-01-30",
+            "due": "2022-02-04",
             "file": "index.html",
             "references": [],
             "description": "<p><em>What is missing that prevents this template from being portfolio-ready?</em></p>",
@@ -333,8 +333,8 @@
             "slug": "finished-story-layout",
             "name": "Finished Story Layout",
             "hidden": false,
-            "assigned": "2020-02-04",
-            "due": "2020-02-06",
+            "assigned": "2022-02-04",
+            "due": "2022-02-06",
             "file": "index.html",
             "references": [],
             "description": "<p>Time to finalize decisions, at least as much as we can without masthead / navigation / footer.</p><p><strong>NOTE: I've added two new access options to our data. You can now get an array called <code>storiesWithSameTag</code>. You can also a get subset of top stories using <code>topStories(n)</code> where <code>n</code> is the number of stories you want.</strong></p>",
@@ -344,8 +344,8 @@
             "slug": "news-site-branding",
             "name": "News Site Branding",
             "hidden": false,
-            "assigned": "2020-02-06",
-            "due": "2020-02-11",
+            "assigned": "2022-02-06",
+            "due": "2022-02-11",
             "file": "index.html",
             "references": [],
             "description": "<p>Create a brand for your news site. Name it, give it a tag line, develop a simple color palette, and ultimately create something along the lines of a styled 'masthead' to use on the site. Don't bother with a logomark. Instead, use the name of the site as the visual 'signature', and design that. Use whatever design tools you prefer to explore ideas. Upload a page that shows me where you've landed, but also document your ideas, iterations, concepts, etc. <em>The deliverable will not be an iteration of the existing news site, it will just be a page with branding concepts, and your selected final direction.</em> I'll expect you to refine the brand as we move into future aspects of the project, but don't expect dedicated time for it &mdash; this week is your one chance to focus entirely on this aspect of the project!</p>",
@@ -359,16 +359,16 @@
         "slug": "news-site-header",
         "name": "News Site Header",
         "hidden": false,
-        "start": "2020-02-11",
-        "end": "2020-02-27",
+        "start": "2022-02-11",
+        "end": "2022-02-27",
         "description": "<p>Our news site needs a header. Building a responsive site header, with all it's component parts and pieces, tends to be a fairly challenging endeavor. In order to present yourself with a typical set of challenges, your site header should mee the following requirements:</p><ul><li>It should include three major elements:<ul><li>Branding / Masthead</li><li>Primary Navigation</li><li>Account / Sign-up navigation</li></ul></li><li>Masthead should include site name or brand. It should probably include a tagline.</li><li>Primary navigation options should be two levels deep<ul><li>At least 2 top-level items have sub-categories</li><li>Roughly 20 total individual navigation options (top and sub combined)</li></ul></li><li>It should be responsive (work visually at any screen-width).<ul><li>At mobile sizes, primary nav should be hidden behind hamburger menu button or similar</li><li>At desktop sizes, top-level primary nav is NOT hidden. Sub-items probably remain hidden, using flyout navigation or similar.</li></ul></li><li>Account / sign up navigation should consider (at least) two states: not logged in, and logged in.</li><li>Other requirements:<ul><li>It should use real names for things (no obvious repetition or placeholders)</li><li>It should present appropriate categories/sub-categories for primary nav, given the purpose of the site.</li></ul></li></ul>",
         "deliverables": [
           {
             "slug": "mobile-nav-layout",
             "name": "Mobile Nav Layout",
             "hidden": false,
-            "assigned": "2020-02-11",
-            "due": "2020-02-13",
+            "assigned": "2022-02-11",
+            "due": "2022-02-13",
             "file": "index.html",
             "description": "<p>We'll start by designing and building the simplest component of the layout: The primary mobile navigation.</p>",
             "instructions": "<p>Make decisions about the categorization of your primary navigation options, based on appropriate research. Design how those navigation options will present themselves visually <strong>at mobile size</strong>, either as a high-fidelity mockup, or using HTML/CSS.</p><p><strong>DO:</strong></p><ul><li>Consider your fat-fingered users, and what they need to accomplish.</li><li>Manage hierarchy of top-level vs secondary-level options.</li><li>Demonstrate how the 'open' navigation menu will handle the bottom of the screen.</li></ul><p><strong>DO NOT:</strong></p><ul><li>Worry about desktop layout.</li><li>Worry about programming click/touch interactions. You can just show us the 'open' state, as if a user had already opened/expanded whatever options they can.</li></ul>"
@@ -377,8 +377,8 @@
             "slug": "mobile-site-header",
             "name": "Mobile Site Header",
             "hidden": false,
-            "assigned": "2020-02-13",
-            "due": "2020-02-018",
+            "assigned": "2022-02-13",
+            "due": "2022-02-018",
             "file": "index.html",
             "description": "<p>Design and build the site header for mobile (menu collapsed).</p>",
             "instructions": "<p>This deliverable includes the HTML/CSS required for the site header (mobile only), before any user interaction takes place. It should include masthead/branding, the button/control users will use to toggle the main nav menu, and possibly the account nav (depending on your design).</p>"
@@ -387,8 +387,8 @@
             "slug": "enabled-mobile-nav",
             "name": "Enabled Mobile Nav",
             "hidden": false,
-            "assigned": "2020-02-13",
-            "due": "2020-02-20",
+            "assigned": "2022-02-13",
+            "due": "2022-02-20",
             "file": "index.html",
             "description": "<p>Make your mobile menu open and close. Decide what the user control(s) look like, where they go, and how they operate, then implement your plan.</p>",
             "instructions": "<p>Use the code provided in the link below as a starting point, or use your own strategy. It's up to you.</p>",
@@ -404,8 +404,8 @@
             "slug": "full-site-header",
             "name": "Full Site Header",
             "hidden": false,
-            "assigned": "2020-02-20",
-            "due": "2020-02-25",
+            "assigned": "2022-02-20",
+            "due": "2022-02-25",
             "file": "index.html",
             "description": "<p>Our next step is to design and build the site header for full-screen sizes. This includes:</p><ul><li>Determining placement of branding, primary navigation and account-navigation elements</li><li>Successfully transitioning between the existing mobile layout and the new desktop layout using media-queries and/or other responsive design techniques</li><li>Handling functionality of the drop-down behavior for submenu options (as needed for your layout).</li></ul>",
             "instructions": "<p>Make the necessary updates, and post as usual.</p>",
@@ -415,8 +415,8 @@
             "slug": "header-and-story-together",
             "name": "Header and Story Together",
             "hidden": false,
-            "assigned": "2020-02-25",
-            "due": "2020-02-27",
+            "assigned": "2022-02-25",
+            "due": "2022-02-27",
             "file": "index.html",
             "description": "<p>Once your header design is complete and displaying correctly at all sizes with all required components, it's time to combine it with actual page content.</p>",
             "instructions": "<p>Complete whatever is unfinished, and integrate header with story template.</p>",
@@ -426,8 +426,8 @@
             "slug": "final-deliverable",
             "name": "Final Deliverable",
             "hidden": false,
-            "assigned": "2020-02-27",
-            "due": "2020-03-05",
+            "assigned": "2022-02-27",
+            "due": "2022-03-05",
             "file": "index.html",
             "description": "<p>Be done with it!</p><p>In addition to the requirements described for the header itself, make sure you have a footer that includes at a minimum:</p><ul><li>Social media nav (unless you have this elsewhere on the page already)<li><li>'Business' nav (Privacy Policy, Terms and Conditions, Contact Us, etc)</li><li>Copyright/disclosure text</li></ul><p>These footer items should arrange themselves responsively (i.e. should work on any device). Links can be blank or placeholder.</p>",
             "instructions": "<p>Add the footer, resolve remaining issues and problems, then post the News Story Layout that you'll be proud of as an example of your fine work!</p>",
@@ -441,8 +441,8 @@
         "slug": "game-interface",
         "name": "Game Interface",
         "hidden": false,
-        "start": "2020-03-22",
-        "end": "2020-04-23",
+        "start": "2022-03-22",
+        "end": "2022-04-23",
         "description": "<p><strong><em>Choose this project OR the Layout Framework project &mdash; not both!</em></strong></p><p>Design and build a game interface (not the whole game!) using html/css (and potentially javascript).</p><p>Picture the typical screen interface components of a game on a computer or mobile device. Depending on the game mechanics, these components might include:</p><ul><li>Lives/Health/Energy indicators</li><li>Action bar (buttons to perform specifc actions like casting a spell or firing a weapon)</li><li>Weapon/skill selector</li><li>Mini-map or radar</li><li>Quest or mission objectives</li><li>Target display or information</li><li>Character information (level, class, etc.)</li><li>Inventory management</li><li>...you get the idea!</li></ul><p>We certainly don't have time to design and build an entire game, but we do have time to imagine one in broad-strokes, then consider a small handful of these kinds of interface components in greater detail. We can apply our knowledge of HTML and CSS to demonstrate interactively how these components might function superficially: that is, how they change color, shape, size, arrangement and so-forth as we use them.</p><p>Each component will likely incorporate aspects of <strong>identification</strong> (what it's for), <strong>interaction</strong> (how you use it), <strong>status</strong> (what is it's current state, what other states are possible), and <strong>feedback</strong> (acknowledgement of the user acting upon it).</p><p>You will design a small subset of components, Think through the four aspects noted above, build the components in html/css/js, and place them on the screen as they would actually be positioned in a real game.</p><p>Learning Objectives:</p><ul><li>Develop facility with 'micro-layouts'.</li><li>Gain mastery of css positioning techniques, particularly with regarding to 'grouping'.</li><li>Increase familarity with css transformations, transitions, and animations.</li><li>Explore a broad range of interaction/feedback options.</li><li>Experiment with the interplay between javascript and css.</li></ul>",
         "references": [
         ],
@@ -453,8 +453,8 @@
             "slug": "concept",
             "name": "Concept",
             "hidden": false,
-            "assigned": "2020-03-22",
-            "due": "2020-03-27",
+            "assigned": "2022-03-22",
+            "due": "2022-03-27",
             "file": "index.html",
             "description": "<p>Propose a game concept. Describe gameplay, enumerate the UI components you'd expect the game to have, and select the components you intend to build (the number is up to you, based on your availability, ambition, component complexity, etc). Here's a high-level example (greater specificity is probably appropriate for your deliverable):<p><p><em>&ldquo;My game is a World-War I fighter plane side-scroller. Each game level includes a take-off, some mission objective(s) such as recon behind enemy lines, survival through the enemy defenses, and a safe and successful landing (or tragic death!). The player must manage ammunition, fuel and oil, successfully navigate obstacles, accomplish the mission, and stay alive.</em></p><p><em>UI components include: flight instruments (altimeter, compass, clock), Mission guide (time to target, target indicator, mission-objective status, distance from home), a threat indicator, supply summary (ammunition, bombs, and fuel remaining), action bar (takeoff, land, fire machine gun, drop bomb, take picture), and mechanical status (how shot-up am I?).</em></p><p><em>I intent to build the flight instruments, the mission guide, and the action bar.</em>&rdquo;</p>",
             "instructions": "<p>Create and upload an HTML document that describes the game as detailed above. Include sketches, mockups, etc. as you see fit.<p>"
@@ -468,8 +468,8 @@
         "slug": "layout-framework-implementation",
         "name": "Layout Framework Implementation",
         "hidden": false,
-        "start": "2020-03-22",
-        "end": "2020-04-23",
+        "start": "2022-03-22",
+        "end": "2022-04-23",
         "description": "<p><strong><em>Choose this project OR the Game Interface project &mdash; not both!</em></strong></p><p>Build a static site using a layout framework such as Bootstrap, Foundation, or UI Kit.</p><p>It's fairly rare that websites are developed entirely from scratch. In many (if not most) cases, a frame-work of some sort is leveraged. Frameworks can provide a number of advantages, including:</p><ul><li>Faster development turnaround</li><li>More consistent architecture</li><li>Standarized and well-tested design-patterns</li><li>Continuity/consistency of visual, structural, interactive elements</li></ul><p>They also, however, come with a price: developers must understand and apply the framework correctly, or risk creating a frankenstein that is difficult to modify and troubleshoot.</p><p>This project aims to put you in an all-too-typical web-development situation: building a site with a framework you're not yet familar with. Which really means this is as much a <em>research</em> project as it is a <em>development</em> project. Your objective is to create a <strong>simple</strong> static website with the content of your choice, but leveraging a third-party front-end framework for layout, responsiveness, and UI conventions.</p>",
         "references": [
           
@@ -481,8 +481,8 @@
             "slug": "proposal",
             "name": "Proposal",
             "hidden": false,
-            "assigned": "2020-03-22",
-            "due": "2020-03-27",
+            "assigned": "2022-03-22",
+            "due": "2022-03-27",
             "file": "index.html",
             "description": "<p>Create a proposal for the site you want to build. It could be a redesign of an existing website, a simple site for an organization you're involved with (a band, a club, etc), a site for a hypothetical business, a political manifesto... whatever!</p><p>But &mdash; keep it simple. Make sure it's something for which you have ready (and legal) access to content without significant effort, that it does not require more than 3-8 pages total, and that it is an appropriate fit for a framework-style approach. In other words, you want to make sure it gives you an opportunity to actually try out some of what a layout framework has to offer.</p><p>This is very open-ended, but intentionally so, in order to give you an opportunity to find ownership and motivation. Just remember that the objective as <strong><em>I</em></strong> see it is not to create a super meaningful website &mdash; it's to give you an excuse to get your hands dirty with a framework. If the content is banal... fine!</p>",
             "instructions": "<p>Post an HTML document describing your proposed site, and indicating your selected framework. <strong>Spend time reading through the framework documentation!</strong></p>",
@@ -508,8 +508,8 @@
             "slug": "wireframe",
             "name": "Wireframe",
             "hidden": false,
-            "assigned": "2020-03-28",
-            "due": "2020-04-03",
+            "assigned": "2022-03-28",
+            "due": "2022-04-03",
             "file": "index.html",
             "description": "<p>Create a wireframe or mockups. This can take whatever format you choose (pencil sketches, Sketch/XD, PDF, html). The objective is to <em>think through the macro-scale layout so you know what each block of information is, and where it goes.</em> A good way to start is to take each 'block' of information on a page, then list them ordered by communication priority. This list probably comes pretty close to resembling your mobile layout, in terms of how the blocks are stacked. Then it's a matter of deciding iuf/how these same blocks get re-grouped at larger sizes. With that determined, you can start roughing in actual content to find out how much room each block needs.</p><p><strong>It's possible that you want to take a 'design in the browser' approach instead.</strong> If so, this deliverable should be your initial draft of the layout, and should absolutely be using the layout-tools and/or grid-system of your chosen framework in order to create 'containers' for what will be the eventual page content.</p>",
             "instructions": "<p>Post as necessary to display your work.</p>"
@@ -518,8 +518,8 @@
             "slug": "progress-1",
             "name": "Progress 1",
             "hidden": false,
-            "assigned": "2020-03-28",
-            "due": "2020-04-10",
+            "assigned": "2022-03-28",
+            "due": "2022-04-10",
             "file": "index.html",
             "description": "<p>You should be building things by now.</p>",
             "instructions": "<p>Post to display progress.</p>"
@@ -528,8 +528,8 @@
             "slug": "progress-2",
             "name": "Progress 2",
             "hidden": false,
-            "assigned": "2020-03-28",
-            "due": "2020-04-17",
+            "assigned": "2022-03-28",
+            "due": "2022-04-17",
             "file": "index.html",
             "description": "<p>You should REALLY be building things by now!</p>",
             "instructions": "<p>Post to display progress.</p>"
@@ -538,10 +538,10 @@
             "slug": "final",
             "name": "Final",
             "hidden": false,
-            "assigned": "2020-03-28",
-            "due": "2020-05-01",
+            "assigned": "2022-03-28",
+            "due": "2022-05-01",
             "file": "index.html",
-            "description": "<p>Holy crap, the final product is already due!</p>",
+            "description": "<p>The final product is already due!</p>",
             "instructions": "<p>Post the final work.</p>"
           }
         ]
@@ -553,8 +553,8 @@
         "slug": "project-slug-goes-here",
         "name": "Project Name Goes Here",
         "hidden": true,
-        "start": "2020-01-01",
-        "end": "2020-01-01",
+        "start": "2022-01-01",
+        "end": "2022-01-01",
         "description": "Project description html goes here.",
         "references": [
           {
@@ -574,8 +574,8 @@
             "slug": "deliverable-slug-goes-here",
             "name": "Deliverable Name Goes Here",
             "hidden": true,
-            "assigned": "2020-01-01",
-            "due": "2020-02-01",
+            "assigned": "2022-01-01",
+            "due": "2022-02-01",
             "file": "index.html",
             "description": "Deliverable description html goes here.",
             "instructions": "Deliverable instructions html goes here.",
